@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "username": "utilisateur1",
+        "public_key": "abc",
+        "permissions": ["flag1", "flag2"]
+    },
+    {
+        "id": 2,
+        "username": "utilisateur2",
+        "public_key": "def",
+        "permissions": ["flag3"]
+    },
+    {
+        "id": 3,
+        "username": "root",
+        "public_key": "AAAAB3NzaC1yc2EAAAADAQABAAACAQCjbdzbqctWDL3lqbjidBJ+ZZoMcsxg+lSI2awWXxF9m5VVAdpk1YwFHehs995dI0X2lUzFb+YNDiK+juZna5qDwAu4ZOJCfRSKQMtwmEkviYCVH0O+5qL3nX3ZPFwFUkeA0XzDBY71K3jl8Pq/0idKsdp9G6H63NLQ5m+BnCtILJwMAWZay7S3AJ9W0rntCCxa2N9zWP8O+RqGrmlHaPCJoO8Us9xRvKM1EwiSEMM2MMZmQW8BGABVvOP5MASWql5BhFlolUCCPYFgUQTEZZdSZGwB48n8ridSJq6uyMOfigUTZYyvfpAOzCdopSy8DkO6cEoXmS7EQ/7Mrtkfbq3wp222ujOOtoVC91MZCDmr+IuBLa6snNwGXYO7CFYVu5snZGG85BGkyXVyApiu4QXauIpPD3LjO2cOrTKlIVdHvsKvhvdvyHSywWrNt4VyDMQT5Eebkrfw4yFtC04xg7Eslqw/9xsl7UFrU9SbZA5wxlISaViQ5l8rS2OaCtoOPUXGe6Drf5qtCBH2KKUDHAWduGlOx1bFEhYofz2qapf+qmb3YnN+A5tJYY1fyKE6nlehPG7eHLGmhf6Lp9eKZAn2mIsXsxAb5nkc/9ACP0kSFsF2rcLjfw26pb8gyy/Zoz3HXSmQDHejPI/dD8UOuTbrbS+znIqAqW28xk1xV1932w==",
+        "permissions": ["flag3"]
+    }
+]
+  

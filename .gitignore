@@ -1,0 +1,44 @@
+.env
+db.js
+/.ssh
+
+# Fichiers d'environnement (variables sensibles)
+.env
+.env.local
+.env.*.local
+
+# Clés SSH et certificats
+*.pem
+*.key
+*.crt
+*.csr
+.ssh/
+
+# Fichiers de base de données
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+dump.sql
+
+# Logs et fichiers de debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Sessions et caches
+sessions/
+cache/
+tmp/
+
+# Node modules et dépendances
+node_modules/
+bower_components/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
